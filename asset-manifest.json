@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/fbsocialmediafrontend/static/css/main.ac3dac22.css",
+    "main.js": "/fbsocialmediafrontend/static/js/main.ab05e1c1.js",
+    "static/media/post3.jpg": "/fbsocialmediafrontend/static/media/post3.95a94fb3de5904951e0a.jpg",
+    "static/media/poster11.jpg": "/fbsocialmediafrontend/static/media/poster11.0472684b348955868081.jpg",
+    "static/media/poster21.jpg": "/fbsocialmediafrontend/static/media/poster21.a8827ba3581f7878c56e.jpg",
+    "static/media/post4.jpg": "/fbsocialmediafrontend/static/media/post4.4ab92a0a7112936617a4.jpg",
+    "static/media/pose2.jpg": "/fbsocialmediafrontend/static/media/pose2.7e1c934803122214dc30.jpg",
+    "static/media/person4.jpg": "/fbsocialmediafrontend/static/media/person4.ff22bea698d1408275c3.jpg",
+    "static/media/person2.jpg": "/fbsocialmediafrontend/static/media/person2.7b14fe8589b7e89c98bc.jpg",
+    "index.html": "/fbsocialmediafrontend/index.html",
+    "main.ac3dac22.css.map": "/fbsocialmediafrontend/static/css/main.ac3dac22.css.map",
+    "main.ab05e1c1.js.map": "/fbsocialmediafrontend/static/js/main.ab05e1c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac3dac22.css",
+    "static/js/main.ab05e1c1.js"
+  ]
+}
